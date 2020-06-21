@@ -1,2 +1,3 @@
-# OlaMundo
- Primeiro projeto Curso Github
+# Olá Mundo
+ Primeiro projeto Curso Github.
+ Repositorio criado em aula
